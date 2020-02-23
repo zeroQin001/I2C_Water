@@ -1,0 +1,9 @@
+{
+	"SR": {
+		"menu": [["温度", "readTemperature"], ["湿度", "readHumidity"]],
+		"default_Gesture_TouchInitSsr": "readTemperature"
+	}
+
+
+
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

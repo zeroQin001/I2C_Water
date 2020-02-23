@@ -1,0 +1,13 @@
+{
+    "SHT20_I2C_Water.SHT20_I2C_WaterInit|block": "SHT20 I2C防水温湿度初始化",
+    "SHT20_I2C_Water.SHT20_I2C_WaterRead|block": "SHT20 I2C防水温湿度读取[SR]数据",
+
+    "SHT20_I2C_Water.SR.readTemperature|menu": "温度",
+    "SHT20_I2C_Water.SR.readHumidity|menu": "湿度"
+
+    
+   
+     
+
+    
+}
